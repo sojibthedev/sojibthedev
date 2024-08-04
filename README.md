@@ -2,12 +2,16 @@
 <h1 align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=600&height=28&lines=Hi👋+I'm+Sojib+Ahmed+A.K.A+SojibTheDev..;+A+Web+Developer+and+Automation+Expert;+3+years+of+experienced+Wordpress+Theme-Plugin+Developer..;Well+knowledge+About+Any+No+Code+Platform;Such+AS;Shopify+Bubble+Webflow+Framer;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></h1>
-<h3 align="center">A passionate<img src="https://readme-typing-svg.herokuapp.com?color=FF4E88&width=300&height=28&lines=FullStack+Developer;Wordpress+Developer&center=true&vCenter=true">from Bangladesh</h3>
+<h3 align="center" style="display: inline-block;">
+  A passionate
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4E88&width=300&height=28&lines=FullStack+Developer;Wordpress+Developer&center=true&vCenter=true" style="vertical-align: middle;"/>
+  from Bangladesh
+</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
-<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <a href="#" target="blank"><img src="https://img.shields.io/twitter/follow/sojibthedev?logo=twitter&style=for-the-badge" alt="sojibthedev"  </p>
 
 - 💬 Ask me about **LAMP , MEARN**
 
@@ -15,10 +19,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-<a href="https://instagram.com/rishav_chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://dev.to/sojibthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sojibthedev" height="30" width="40" /></a>
+<a href="https://twitter.com/sojibthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sojibthedev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sojibthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sojibthedev" height="30" width="40" /></a>
+<a href="https://fb.com/sojibthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sojibthedev" height="30" width="40" /></a>
+<a href="https://instagram.com/sojibthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sojibthedev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sojibthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sojibthedev" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sojibthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sojibthedev" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/sojibthedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sojibthedev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,10 +36,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
   </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/xd/xd-original.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.webflow.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/webflow/webflow-original.svg" alt="webflow" width="40" height="40"/> </a> </p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
+# 📊 GitHub Stats:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sojibthedev&show_icons=true&locale=en&layout=compact" alt="sojibthedev" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojibthedev&show_icons=true&locale=en" alt="sojibthedev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojibthedev&" alt="sojibthedev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sojibthedev" alt="sojibthedev" /></a> </p>
+
+## 📈 Total Views
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sojibthedev&label=Profile%20views&color=0e75b6&style=flat" alt="sojibthedev" /> </p>
